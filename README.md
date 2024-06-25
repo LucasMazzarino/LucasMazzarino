@@ -13,7 +13,6 @@
 <div class="line">
  <p><hr background-color="forestgreen"></p>
 </div>
-<h3> Brief introduction and interests</h3>
 
 <h3>Tools and technologies used so far</h3>
 <p align="left">
