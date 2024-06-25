@@ -32,3 +32,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="60" height="60"/>
+</p>
+<div class="line">
+ <p><hr background-color="forestgreen"></p>
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/alvarocallero/alvarocallero/output/github-contribution-grid-snake-dark.svg)
+
+<a href=""> <img align="left" width="260" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocallero&theme=react&line_height=60&hide=css"/> </a>
